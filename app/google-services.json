@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666801647149",
+    "project_id": "bmon-c19ea",
+    "storage_bucket": "bmon-c19ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666801647149:android:560dae5093f5dbbe4412a4",
+        "android_client_info": {
+          "package_name": "pt.unl.fct.di.bmon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666801647149-anl593atpkpcpaa3n78q9fivg3bo0e19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzSbd3ZL81VDbo54UH7pDWqHAaN1AXM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666801647149-anl593atpkpcpaa3n78q9fivg3bo0e19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
