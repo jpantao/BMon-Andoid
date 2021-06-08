@@ -1,4 +1,4 @@
-package pt.unl.fct.bmon;
+package pt.unl.fct.di.bmon;
 
 import org.junit.Test;
 

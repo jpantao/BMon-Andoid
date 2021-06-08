@@ -1,4 +1,4 @@
-package pt.unl.fct.bmon;
+package pt.unl.fct.di.bmon;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("pt.unl.fct.bmon", appContext.getPackageName());
+        assertEquals("pt.unl.fct.di.bmon", appContext.getPackageName());
     }
 }
