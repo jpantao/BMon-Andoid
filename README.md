@@ -1,4 +1,4 @@
 # BMon-Android
 
-This is just the mobile android application of BMon. for more 
+This repository holds BMon's mobile android application. For more 
 information go to the [main](https://github.com/jpantao/BMon) repository.
