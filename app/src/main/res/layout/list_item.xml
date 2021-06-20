@@ -39,7 +39,7 @@
                     android:textStyle="bold" />
 
                 <TextView
-                    android:id="@+id/bonsaiTemperature"
+                    android:id="@+id/temperature_value"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="temperature"
@@ -47,7 +47,7 @@
                     android:textSize="26sp"/>
 
                 <TextView
-                    android:id="@+id/bonsaiHumidity"
+                    android:id="@+id/humidity_value"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="humidity"
@@ -55,7 +55,7 @@
                     android:textSize="26sp"/>
 
                 <TextView
-                    android:id="@+id/bonsaiLuminosity"
+                    android:id="@+id/luminosity_value"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="luminosity"
@@ -63,7 +63,7 @@
                     android:textSize="26sp"/>
 
                 <TextView
-                    android:id="@+id/bonsaiMoist"
+                    android:id="@+id/moisture_value"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="moist"
